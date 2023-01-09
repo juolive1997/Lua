@@ -1,0 +1,11 @@
+CTRL + R - Recarregar o código na engine
+CTRL + k - limpa o console da engine
+
+CTRL + S - Salva o código no editor de código ( sublime text )
+CTRL + N - Cria novo script ( arquivo de código ) no Sublime Text. 
+CTRL + ; - Comentário de código.
+
+CTRL + Z - Desfaz última digitação. 
+CTRL + Y - Refaz o que eu apaguei.
+CRTL + SHIFT + D - Duplica a linha
+CTRL + SHIFT + SETA CIMA/BAIXO - Move a linha.

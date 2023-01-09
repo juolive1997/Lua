@@ -1,0 +1,16 @@
+ATALHOS SUBLIME: 
+-- Comentar a linha do código (ao comentar a linha não interfere mais no resto da programação)
+- CTRL S: Salvar o código.
+- CTRL N: Cria um novo script (arquivo de código) no sublime.
+- CTRL ; : Comenta o código em mais de uma linha.
+- CTRL Z: Desfaz a digitação no código.
+- CTRL Y: Refaz a digitação que foi apagada no código. 
+- CTRL + SHIFT + seta cima/baixo: Move a linha. 
+- CTRL + SHIFT + D: Duplica a linha. 
+- CTRL D: Seleciona todas as palavras iguais no código.
+- CTRL O: Abrir um arquivo. 
+- CTRL + SHIFT + ; : Comentário multilinha.
+_______________________ATALHOS CORONA__________________
+CTRL K: Limpa o console.
+CTRL R: Atualizar a engine. 
+CTRL + SHIFT + seta baixo: Pausa a engine. 
